@@ -17,7 +17,6 @@
 3. 다양한 언어 개발 경험
   - PHP, NodeJS가 주이며, ReactJS, Python, Java (android, spring boot),ObjectiveC,swift4, golang 등 사용 서비스 개발 운영
   - 하이브리드 앱/네이티브 앱 1인 개발, 안드로이드 구글플레이, 애플 앱스토어 배포 경험
-  - MySQL, mariadb, mongodb, redis, memcached, Sphinx, postgresql, mssql, oracle
 
 4. 정보보안/개인정보보호 보안 관리자
   - ISMS 인증 심사 준비부터 취득/운영, 보안문서/정책 컨설팅 가능
@@ -76,6 +75,22 @@
 ```
 . 전문가 동영상 사이트 총괄 PM (시스템 설계 및 개발)
 . 미디어 시스템 구축(FMS), 인코딩 시스템 구축(ffmpeg)
+```
+
+## Skill
+```
+- DevOps : ELK + elastickalert + ansible-playbook + slack api + RESTful API 활용 인프라 모니터링 및 배포자동화, Jenkins, JUnit,PHPUnit
+- PHP : OOP개발, PSR-0,PSR-1, PSR-4 준수 개발, php 5.2 to 5.3, 5.3 to 5.4, 5.4 to 5.6, 5.3 to 7.3,7.4 다양한 마이그레이션 경험
+- JavaScript : jquery, ajax, dom, bootstrap, node.js(es5/es6개발), TDD, vanila
+- DB : MySQL(5.1 to 5.5 마이그레이션), mongodb, memcache, redis, mariadb, Sphinx, PostgreSql, mssql, oracle
+- 보안 : mod-security 설치/운영 룰셋팅, ELK + elasticalert 모니터링(룰 보정 운용), iptables + ansible + slack 방화벽 룰 추가
+- Linux 서버 관리, IDC 인프라 운영, Docker 실서비스 운용, Kubernetes 기반 서비스 런칭
+- AWS 인프라 구성 및 운영 (EC2,RDS,VPC,람다,auto scaling, ALB, EKS, SES,IAM ...)
+- 네이버클라우드(ncloud) 구축 및 운영
+- 버전 관리 : Git, SVN, CVS
+- 모바일 하이브리드앱 개발 : Java, Swift4 네이티브 웹뷰 개발 + 웹개발 안드로이드,iOS 출시
+- ISMS 정보보안 최초 심사 준비 및 심사 완료/사후심사대응인증완료
+- 캐릭터셋 변환 EUC-KR to UTF-8 변환 마이그레이션 경험 다수
 ```
 
 ## Contact
