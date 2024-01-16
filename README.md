@@ -15,7 +15,7 @@
   - 사업 확장을 위한 인프라 구축 및 마이그레이션, 신규 솔루션 설계나 리뉴얼 전반 등 단계적 진행 가능
 
 3. 다양한 언어 개발 경험
-  - PHP, NodeJS가 주이며, ReactJS, Python, Java (android, spring boot),ObjectiveC,swift4, golang 등 사용 서비스 개발 운영
+  - PHP, NodeJS, ReactJS, Python, Java (android, spring boot),ObjectiveC,swift4, golang 등 사용 서비스 개발 운영
   - 하이브리드 앱/네이티브 앱 1인 개발, 안드로이드 구글플레이, 애플 앱스토어 배포 경험
 
 4. 정보보안/개인정보보호 보안 관리자
@@ -68,6 +68,7 @@
 ```
 . 쇼핑몰 솔루션 EC2 프레임워크 개발 참여
 . 월매출 1억이상 대형쇼핑몰 대응 SI팀 쉬즈굿닷컴, 오렌지플러스 커스터마이징 유지보수
+. 일방문자 50만 이상 대용량 데이터 경험
 . 카페24솔루션 부가서비스 개발
 ```
 
@@ -80,9 +81,8 @@
 ## Skill
 ```
 - DevOps : ELK + elastickalert + ansible-playbook + slack api + RESTful API 활용 인프라 모니터링 및 배포자동화, Jenkins, JUnit,PHPUnit
-- PHP : OOP개발, PSR-0,PSR-1, PSR-4 준수 개발, php 5.2 to 5.3, 5.3 to 5.4, 5.4 to 5.6, 5.3 to 7.3,7.4 다양한 마이그레이션 경험
-- JavaScript : jquery, ajax, dom, bootstrap, node.js(es5/es6개발), TDD, vanila
-- DB : MySQL(5.1 to 5.5 마이그레이션), mongodb, memcache, redis, mariadb, Sphinx, PostgreSql, mssql, oracle
+- 다양한 언어 : php, nodejs, next.js, express, Java, SpringFramework, Python3,Flask, Django, C#, Javascript, ObjectiveC, Swift, React, Dart, Unity
+- DB : MySQL(5.1 to 5.5 마이그레이션), mongodb, memcache, redis, mariadb, Sphinx, PostgreSql, mssql, oracle9/10
 - 보안 : mod-security 설치/운영 룰셋팅, ELK + elasticalert 모니터링(룰 보정 운용), iptables + ansible + slack 방화벽 룰 추가
 - Linux 서버 관리, IDC 인프라 운영, Docker 실서비스 운용, Kubernetes 기반 서비스 런칭
 - AWS 인프라 구성 및 운영 (EC2,RDS,VPC,람다,auto scaling, ALB, EKS, SES,IAM ...)
