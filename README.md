@@ -83,7 +83,7 @@
 ```
 - DevOps : ELK + elastickalert + ansible + slack api + RESTful API 활용 인프라 모니터링 및 배포자동화, Jenkins, JUnit,PHPUnit
 - 다양한 언어 : php, nodejs, next.js, express, Java, SpringFramework, Python3,Flask, Django, C#, Javascript, ObjectiveC, Swift, React, Dart, Unity
-- DB : MySQL(5.1 to 5.5 마이그레이션), mongodb, memcache, redis, mariadb, Sphinx, PostgreSql, mssql, oracle9/10
+- DB : MySQL5.7/8, mongodb, memcache, redis, mariadb, Sphinx, PostgreSql, mssql, oracle9/10
 - 보안 : mod-security 설치/운영 룰셋팅, ELK + elasticalert 모니터링(룰 보정 운용), iptables + ansible + slack 방화벽 룰 추가
 - Linux 서버 관리, IDC 인프라 운영, Docker 실서비스 운용, Kubernetes 기반 서비스 런칭
 - AWS 인프라 구성 및 운영 (EC2,RDS,VPC,람다,auto scaling, ALB, EKS, SES,IAM ...)
