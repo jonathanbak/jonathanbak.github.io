@@ -6,11 +6,12 @@
 
 ## Strength
 1. 온라인 서비스 운영의 모든 분야 경력있는 기술리더
-  - 서버 인프라 설계부터 온라인 서비스 배포 및 운영까지
+  - 서버 인프라 설계부터 온라인 서비스 배포 및 운영까지 (AWS, Jenkins, ansible, ELK, docker, helm)
   - dedicated 서버 IDC내 운영, AWS, NCloud 클라우드 운영
 
 2. 대량 트래픽 처리/운영 능력
   - 10억에서 100억 이상 매출로 성장하는 트래픽 분산처리/운영
+  - 평시 트래픽 10배 이상 이벤트 트래픽 분산 처리
   - 서비스 확장 다수 경험(서버이전,인프라 확장)
   - 사업 확장을 위한 인프라 구축 및 마이그레이션, 신규 솔루션 설계나 리뉴얼 전반 등 단계적 진행 가능
 
@@ -32,8 +33,8 @@
 
 > 연간 매출액 100억 달성 독립 쇼핑몰
 ```
-. 특정 이벤트 트래픽 순간 폭증 대응 분산 처리 시스템 구축
-. 검색 엔진 (Elasticsearch) 도입
+. 특정 이벤트 트래픽 순간 폭증 대응 분산 처리 시스템 구축 (ALB,Replication,Auto Scaling,memcache,cloudwatch,ELK)
+. 검색 엔진 (Elasticsearch) 도입, MSA 도입
 . ML 연관 상품 추천 기능 구현 (유저기반 협업필터링 + 컨텐츠 기반 추천)
 . 하이브리드 앱 개발 (안드로이드, iOS)
 . 테스트코드 & 배포자동화 & 아키텍처 등 개발환경 개선
@@ -80,7 +81,7 @@
 
 ## Skill
 ```
-- DevOps : ELK + elastickalert + ansible-playbook + slack api + RESTful API 활용 인프라 모니터링 및 배포자동화, Jenkins, JUnit,PHPUnit
+- DevOps : ELK + elastickalert + ansible + slack api + RESTful API 활용 인프라 모니터링 및 배포자동화, Jenkins, JUnit,PHPUnit
 - 다양한 언어 : php, nodejs, next.js, express, Java, SpringFramework, Python3,Flask, Django, C#, Javascript, ObjectiveC, Swift, React, Dart, Unity
 - DB : MySQL(5.1 to 5.5 마이그레이션), mongodb, memcache, redis, mariadb, Sphinx, PostgreSql, mssql, oracle9/10
 - 보안 : mod-security 설치/운영 룰셋팅, ELK + elasticalert 모니터링(룰 보정 운용), iptables + ansible + slack 방화벽 룰 추가
